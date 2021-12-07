@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>Voertuigen</h1>
+        <h2> Elektrsiche fietsen </h2>
+    </head>
+    <body>
+        <h1>Verkoop E-bikes</h1>
+        <h2>E-Bikes steeds betaalbaarder</h2>
+        <hr>
+       <p>We zien een forse stijging in het verkoop van elektrsiche fietsen</p>
+        <a href="E bike.jpg"><h1>Ebike</h1>
+        <a href="about.html">pagina over mij</a>    
+    </body>
+</html>
