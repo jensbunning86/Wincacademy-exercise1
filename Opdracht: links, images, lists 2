@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>Mijn wereld</h1>
+        <h2>Jens Bunning</h2>
+        </head>
+        <body>
+            <p>1986</p>
+            <p>Aamsterdam</p>
+            <p>Machinist Nederlandse Spoorwegen</p>
+
+            <a href="Pasfoto Jens Bunning.jpg">foto van mijzelf</a>
+            
+            
+            <a href="index.html">Terug naar mijn index pagina</a>
+        </body>
