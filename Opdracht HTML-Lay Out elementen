@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <header>
+    <head>
+        <h1>Voertuigen</h1>
+        <h2> Elektriche fietsen </h2>
+    </head>
+</header>
+<main>
+    <body>
+        <h1>Verkoop E-bikes</h1>
+        <h2>E-Bikes steeds betaalbaarder</h2>
+        <hr>
+       <p>We zien een forse stijging in het verkoop van elektriche fietsen</p>
+        <a href="E bike.jpg"><h1>Ebike</h1>
+        <a href="about.html">pagina over mij</a>`
+        <img width='150px'src='Pasfoto Jens Bunning.jpg'>
+        </main>
+        
+        <nav>
+        <ul>
+        <li>Motorfietsen</li>
+        <li>Stranden</li>
+        <li>Bergen</li>        
+        </ul>
+        </nav>
+
+        <a href='house.html'>link naar house.html</a>
+    </body>
+    <footer>
+        <p>Author: Jens Bunning</p>
+        <p><a href="mailto: jensbunning86@hotmail.com">jensbunning86@hotmail.com</a></p>
+      </footer>
+</html>
