@@ -1,0 +1,94 @@
+body {background-color: gold;}
+title{font-family:georgia;
+    font-display: auto;
+}
+img {
+    border-radius: 40%;
+    padding: 1%;
+    size: 15px;
+    max-width: 30%;
+  height: auto;
+  }
+
+h1.black-border {
+    border: 5px border black;
+ } 
+
+footer{background-color: whitesmoke;
+}
+
+div{
+    font-style: oblique;
+    color: white;
+}
+
+p{
+    font-size: larger;
+    font-display: auto;
+    font-style: verdana;
+}
+
+.author{
+    font-variant: normal;
+    font-size: medium;
+
+}
+h1 {
+    display: inline;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li {
+    font-size: xx-large;
+    display: inline;
+  }
+form{background-color: gold;
+}
+
+h1 {
+    font-family: "Sofia", sans-serif;
+
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+}
+/* ----------- Galaxy Tab S ----------- */
+
+/* Portrait and Landscape */
+@media 
+  (min-device-width: 800px) 
+  and (max-device-width: 1280px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media 
+  (max-device-width: 800px) 
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+}
+
+/* Landscape */
+@media 
+  (max-device-width: 1280px) 
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+}
